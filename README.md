@@ -1,4 +1,4 @@
-Servus, I'm Paul Zimmermann. Frontend & Backend Developer and Graphic Designer.
+Servus, I'm Paul Zimmermann. Frontend & Backend Developer, graphic designer and hobby basketballer.
 
 Interest to delve into banking and fintech, drone technologies and individual AI'S as productivity catalyst.
 
