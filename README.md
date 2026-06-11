@@ -1,14 +1,26 @@
-## Paul Zimmermann
-**Frontend & Backend Developer | Graphic Designer**
+## 👨‍💻 Paul Zimmermann
 
-### Interests
-- Banking & FinTech
-- Drone Technologies
-- Custom AI Productivity Tools
+**🎨 Frontend & Backend Developer | Graphic Designer**
 
-### Tech Stack
-- **Languages:** TypeScript, Python, Go
 
-Author of: [OjoDelBanco](https://github.com/Pajozim/OjoDelBanco).
+### 🎯 Interests
 
-Currently finishing courses in: [Boot.dev](https://www.boot.dev/u/pajozim).
+- 🏦 Banking & FinTech
+- 🚁 Drone Technologies
+- 🤖 Custom AI Productivity Tools
+
+
+### 🛠️ Tech Stack
+
+- **💻 Languages:** TypeScript, Python, Go
+
+
+### 📦 Products
+
+- 👁️ [OjoDelBanco](https://github.com/Pajozim/OjoDelBanco) — on-device OCR for extracting transaction data
+- 📝 [CMSwTPaL](https://github.com/Pajozim/CMSwTPaL) — web-oriented instruction format
+
+
+### 🔄 Currently Doing
+
+- 📚 finishing courses on [Boot.dev](https://www.boot.dev/u/pajozim)
