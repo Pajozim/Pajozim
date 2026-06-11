@@ -1,8 +1,13 @@
-Servus, I'm Paul Zimmermann. Frontend & Backend Developer, graphic designer and hobby basketballer.
+## Paul Zimmermann
+**Frontend & Backend Developer | Graphic Designer**
 
-Interest to delve into banking and fintech, drone technologies and individual AI'S as productivity catalyst.
+### Interests
+- Banking & FinTech
+- Drone Technologies
+- Custom AI Productivity Tools
 
-Writing in: Typescript, Python and Go.
+### Tech Stack
+- **Languages:** TypeScript, Python, Go
 
 Author of: [OjoDelBanco](https://github.com/Pajozim/OjoDelBanco).
 
