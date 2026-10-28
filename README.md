@@ -1,4 +1,4 @@
-## 👨‍💻 Paul Zimmermann
+## Paul Zimmermann
 
 **🎨 Frontend & Backend Developer | Graphic Designer**
 
